@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-        ⚡ c++ /python
+        ⚡ c++ /python /Gopher
 
         🔭 white-hat && programmer
 
